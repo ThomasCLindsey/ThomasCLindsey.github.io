@@ -1,0 +1,48 @@
+# -*- mode: org -*-
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@
+
+* Thomas C Lindsey
+(801) 762-7486{{{NEWLINE}}}
+Springville, UT{{{NEWLINE}}}
+tom@thomasclindsey.com{{{NEWLINE}}}
+https://www.linkedin.com/in/thomas-c-lindsey
+
+** Work History, 2006 - 2023
+
+*** 03/2022 - 10/2023 | Staff / Principal Engineer | Smartbiz Loans | Springville UT / San Francisco CA
+
+- Stabilized several projects from departing engineers and then redesigned to make them simpler and easier to understand. I received company wide recognition for my efforts.
+- Designed and engineered an event based architecture. This allowed us to decouple, strangle and replace functionality into testable, scalable systems in a fast evolving infrastructure.
+- Provided direction to several teams to simplify and replace a brittle set of services, workers, and database triggers that populated Salesforce with information needed to process, measure, carry out and report on critical business functions.
+- Created and socialized service and worker templates and libraries to help teams quickly start new projects and provide commonality between services.
+- Created and socialized common GitHub tasks: static analysis, testing, code formatting, docker image management, software health ratings, pull request templates, etc.
+- Delivered projects for executive initiatives working with data science and business analytics.
+- Held regular 1:1s with leaders and individual contributors in the development organization.
+
+*** 07/2015 - 03/2022 | Sr. Software Architect | ECi Software Solutions | Provo UT / Dallas TX
+- Led teams in understanding the need for software design and software architecture.
+- Guided team leaders and teams as we implemented a specific architecture in an iterative manner.
+- Established a testing culture that valued unit testing and reshaping legacy code in a testable, iterative manner.
+- Led the construction, design, and delivery of several projects across multiple teams and initiatives to refactor a monolithic thick client application into smaller domains and from there into APIs.
+
+*** 02/2006 - 07/2015 | Sr Software Engineer | Foundation Source | Provo UT / Fairfield CT
+- Responsible for the design, implementation and maintenance of a system of web applications and services and databases used by the general public, clients, and administrative users.
+- Led a small team tasked with redesigning an existing administrative thick client application.
+- Created custom lightweight AJAX/REST middleware to glue our services to existing sites and applications for the WordPress platform and anticipated mobile hybrid apps.
+- Designed services and applications for iOS devices, to accommodate user experience and infrastructure requirements for mobile users.
+
+** Additional Work History, 1991 - 2006
+
+| dates             | role                 | company                | location |
+|-------------------+----------------------+------------------------+----------|
+| 10/2002 - 02-2006 | Engineering Manager  | Avinti                 | Provo UT |
+|-------------------+----------------------+------------------------+----------|
+| 04/2001 - 10/2002 | Development Manager  | Altiris                | Provo UT |
+|-------------------+----------------------+------------------------+----------|
+| 09/1998 - 04/2001 | Staff Engineer       | Madison River          | Orem UT  |
+|-------------------+----------------------+------------------------+----------|
+| 02/1997 - 09/1998 | Sr Software Engineer | Home Financial Network | Orem UT  |
+|-------------------+----------------------+------------------------+----------|
+| 06/1991 - 02/1997 | Software Engineer    | WordPerfect            | Orem UT  |
